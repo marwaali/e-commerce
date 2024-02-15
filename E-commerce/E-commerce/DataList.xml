@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataList>
+  <Website>
+    <BaseUrl>https://automationexercise.com/login</BaseUrl>
+    <Browser>chrome</Browser>
+    <User>MarwaBasuony001@gmail.com</User>
+    <Pass>Test</Pass>
+  </Website>
+</DataList>
